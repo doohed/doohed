@@ -28,7 +28,7 @@ Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
     href="https://www.linkedin.com/in/bojorquez-godina-martin-esteban-908609270/"
   >
     <img
-      src="https://cdn.icon-icons.com/icons2/2037/PNG/96/in_linked_linkedin_media_social_icon_124259.png"
+      src="https://cdn.icon-icons.com/icons2/1488/PNG/96/5296-linkedin_102551.png"
       alt="LinkedIn Badge"
     />
   </a>
