@@ -30,7 +30,7 @@ Skills](https://skillicons.dev/icons?i=mongodb,linux)](https://skillicons.dev)
       alt="LinkedIn Badge"
     />
   </a>
-### Socials
+  
   <a href="https://steamcommunity.com/id/dodoshi/">
     <img
       src="https://cdn.icon-icons.com/icons2/3053/PNG/96/steam_alt_macos_bigsur_icon_189698.png"
