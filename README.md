@@ -3,8 +3,8 @@ Hi there 👋 My name is Martin Bojorquez 😄
 🌍  I am a Front-End Developer based in Sinaloa, Mexico.
 <br />
 
-### Skills [![My
-Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+### Skills 
+[![MySkills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My
 Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My
@@ -28,7 +28,7 @@ Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
       href="https://www.linkedin.com/in/bojorquez-godina-martin-esteban-908609270/"
     >
       <img
-        src="https://cdn.icon-icons.com/icons2/99/PNG/96/linkedin_socialnetwork_17441.png"
+        src="https://cdn.icon-icons.com/icons2/2201/PNG/96/linkedin_logo_square_icon_134016.png"
         alt="LinkedIn Badge"
       />
     </a>
