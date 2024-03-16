@@ -4,7 +4,8 @@ Hi there 👋 My name is Martin Bojorquez 😄
 <br />
 
 ### Skills 
-[![MySkills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My
+Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My
 Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My
@@ -23,28 +24,26 @@ Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 ###📫 How to reach me:
 
 <div id="badges">
+  <a
+    href="https://www.linkedin.com/in/bojorquez-godina-martin-esteban-908609270/"
+  >
+    <img
+      src="https://cdn.icon-icons.com/icons2/2201/PNG/96/linkedin_logo_square_icon_134016.png"
+      alt="LinkedIn Badge"
+    />
+  </a>
 
-    <a
-      href="https://www.linkedin.com/in/bojorquez-godina-martin-esteban-908609270/"
-    >
-      <img
-        src="https://cdn.icon-icons.com/icons2/2201/PNG/96/linkedin_logo_square_icon_134016.png"
-        alt="LinkedIn Badge"
-      />
-    </a>
+  <a href="https://steamcommunity.com/id/dodoshi/">
+    <img
+      src="https://cdn.icon-icons.com/icons2/3053/PNG/96/steam_alt_macos_bigsur_icon_189698.png"
+      alt="steam Badge"
+    />
+  </a>
 
-    <a href="https://steamcommunity.com/id/dodoshi/">
-      <img
-        src="https://cdn.icon-icons.com/icons2/3053/PNG/96/steam_alt_macos_bigsur_icon_189698.png"
-        alt="steam Badge"
-      />
-    </a>
-
-    <a href="https://www.instagram.com/dohed_/">
-      <img
-        src="https://cdn.icon-icons.com/icons2/1584/PNG/96/3721672-instagram_108066.png"
-        alt="steam Badge"
-      />
-    </a>
-
+  <a href="https://www.instagram.com/dohed_/">
+    <img
+      src="https://cdn.icon-icons.com/icons2/1584/PNG/96/3721672-instagram_108066.png"
+      alt="steam Badge"
+    />
+  </a>
 </div>
