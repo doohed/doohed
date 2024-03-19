@@ -3,8 +3,7 @@ Hi there 👋 My name is Martin Bojorquez 😄
 🌍  I am a Front-End Developer based in Sinaloa, Mexico.
 <br />
 
-### Skills 
-
+### Skills
 [![MySkills](https://skillicons.dev/icons?i=js,ts,react,next,vue,vite,tailwind,nodejs,mongodb,linux)](https://skillicons.dev)
 <br />
 <div>
@@ -18,22 +17,8 @@ Hi there 👋 My name is Martin Bojorquez 😄
     href="https://www.linkedin.com/in/bojorquez-godina-martin-esteban-908609270/"
   >
     <img
-      src="https://cdn.icon-icons.com/icons2/1488/PNG/96/5296-linkedin_102551.png"
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn Badge"
-    />
-  </a>
-  
-  <a href="https://steamcommunity.com/id/dodoshi/">
-    <img
-      src="https://cdn.icon-icons.com/icons2/3053/PNG/96/steam_alt_macos_bigsur_icon_189698.png"
-      alt="steam Badge"
-    />
-  </a>
-
-  <a href="https://www.instagram.com/dohed_/">
-    <img
-      src="https://cdn.icon-icons.com/icons2/1584/PNG/96/3721672-instagram_108066.png"
-      alt="steam Badge"
     />
   </a>
 </div>
