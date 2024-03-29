@@ -4,7 +4,7 @@ Hi there 👋 My name is Martin Bojorquez 😄
 <br />
 
 ### Skills
-[![MySkills](https://skillicons.dev/icons?i=js,css,react,next,vue,vite,tailwind,nodejs,mongodb,linux)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=js,css,react,next,vite,styled-components,tailwind,nodejs,mongodb,linux)](https://skillicons.dev)
 <br />
 <div>
   🔭 I’m currently working on personal fullstack projects with nextjs and vuejs
