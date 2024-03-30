@@ -7,7 +7,7 @@ Hi there 👋 My name is Martin Bojorquez 😄
 [![MySkills](https://skillicons.dev/icons?i=js,css,html,react,next,vite,styledcomponents,tailwind,nodejs,mongodb,linux)](https://skillicons.dev)
 <br />
 <div>
-  🔭 I’m currently working on personal fullstack projects with nextjs and vuejs
+  🔭 My favorite framework is vitejs
 </div>
 
 ### How to reach me:
