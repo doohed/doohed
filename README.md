@@ -4,7 +4,7 @@ Hi there 👋 My name is Martin Bojorquez 😄
 <br />
 
 ### Skills
-[![MySkills](https://skillicons.dev/icons?i=js,css,html,react,next,vite,styledcomponents,tailwind,nodejs,mongodb,linux)](https://skillicons.dev)
+[![MySkills](https://skillicons.dev/icons?i=js,css,html,styledcomponents,tailwind,react,next,vite,nodejs,mongodb,linux)](https://skillicons.dev)
 <br />
 <div>
   🔭 My favorite framework is vitejs
