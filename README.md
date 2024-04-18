@@ -21,7 +21,9 @@ Hi there 👋 My name is Martin Bojorquez 😄
       alt="LinkedIn Badge"
     />
   </a>
-  <span>
-    bojorquezdev@gmail.com
-  </span>
+  <div>
+    <span>
+      bojorquezdev@gmail.com
+    </span>
+  </div>
 </div>
