@@ -1,10 +1,10 @@
-Hi there 👋 My name is Martin Bojorquez 😄
+
 ========================================================================================================================================
-🌍  I am a Front-End Developer based in Sinaloa, Mexico.
+I like to code, always coding
 <br />
 
-### Skills
-[![MySkills](https://skillicons.dev/icons?i=js,css,html,styledcomponents,tailwind,react,next,vite,nodejs,mongodb,linux)](https://skillicons.dev)
+
+
 <br />
 <div>
 
