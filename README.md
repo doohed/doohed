@@ -14,7 +14,7 @@ I like to code, always coding
 
 <div id="badges">
   <a
-    href="www.linkedin.com/in/martin-bojorquez-908609270"
+    href="www.linkedin.com/in/martin-bojorquez-908609270](https://www.linkedin.com/in/martin-bojorquez-908609270"
   >
     <img
       src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
