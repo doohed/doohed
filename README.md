@@ -23,7 +23,7 @@ I like to code, always coding
   </a>
   <div>
     <span>
-      bojorquezdev@gmail.com
+      contact@bojorquez.dev
     </span>
   </div>
 </div>
