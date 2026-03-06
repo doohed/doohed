@@ -43,14 +43,13 @@ There are probably more, but these are the ones I admit publicly.
 Apparently numbers make developers look more legitimate.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doohed&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=doohed&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=doohed&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doohed&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doohed&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=doohed&layout=compact&theme=tokyonight" height="170"/>
 </p>
-
 
 ## Activity Graph
 
