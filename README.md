@@ -2,7 +2,8 @@
 Welcome to my GitHub.
 Yes, the code works. No, I will not explain why.
 
-
+<br/>
+<br/>
 
 ## About Me
 
@@ -17,7 +18,8 @@ I spend most of my time convincing CSS to behave.
 
 Portfolio: https://bojorquez.dev
 
-
+<br/>
+<br/>
 
 ## Tech I Use
 
@@ -36,7 +38,8 @@ Vercel
 
 There are probably more, but these are the ones I admit publicly.
 
-
+<br/>
+<br/>
 
 ## GitHub Statistics
 
@@ -51,13 +54,17 @@ Apparently numbers make developers look more legitimate.
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=doohed&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
+<br/>
+<br/>
+
 ## Activity Graph
 
 Proof that I occasionally leave my editor open long enough to commit something.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=doohed\&theme=tokyo-night)
 
-
+<br/>
+<br/>
 
 ## Contact
 
