@@ -1,9 +1,8 @@
-# Esteban Bojorquez
 
 Welcome to my GitHub.
 Yes, the code works. No, I will not explain why.
 
----
+
 
 ## About Me
 
@@ -18,7 +17,7 @@ I spend most of my time convincing CSS to behave.
 
 Portfolio: https://bojorquez.dev
 
----
+
 
 ## Tech I Use
 
@@ -37,7 +36,7 @@ Vercel
 
 There are probably more, but these are the ones I admit publicly.
 
----
+
 
 ## GitHub Statistics
 
@@ -49,7 +48,7 @@ Apparently numbers make developers look more legitimate.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doohed\&layout=compact\&theme=tokyonight)
 
----
+
 
 ## Activity Graph
 
@@ -57,7 +56,7 @@ Proof that I occasionally leave my editor open long enough to commit something.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=doohed\&theme=tokyo-night)
 
----
+
 
 ## Contact
 
