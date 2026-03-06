@@ -43,11 +43,11 @@ There are probably more, but these are the ones I admit publicly.
 
 Apparently numbers make developers look more legitimate.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doohed\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=doohed\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doohed\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -55,7 +55,7 @@ Apparently numbers make developers look more legitimate.
 
 Proof that I occasionally leave my editor open long enough to commit something.
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=doohed\&theme=tokyo-night)
 
 ---
 
