@@ -1,56 +1,70 @@
-# Welcome to my GitHub.
-
-I'm a full-stack developer.
-
-I work across the whole stack — from the API and data layer to the interface people actually touch. I like understanding how a project fits together end to end, and I care about the details on both sides.
-
-- Portfolio: **[bojorquez.dev](https://bojorquez.dev)**
+Welcome to my GitHub.
 
 <br/>
+<br/>
 
-## Tech I work with
- 
+## About Me
+
+I'm a developer who enjoys building fast, modern web applications and occasionally breaking things in the process.
+Currently I have professional experience with full-stack web development but I'm always trying to learn new things.
+
+* Full-stack developer
+* Professional bug creator and bug fixer
+* Linux user
+
+<br/>
+<br/>
+
+## Tech I Use
+
 **Frontend**
- 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
- 
-**Backend**
- 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
- 
+React
+Next.js
+TypeScript
+TailwindCSS
+
 **Tools**
- 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
- 
-Plus whatever the project needs — I'm always happy to pick up something new.
- 
+Node.js
+Git
+Vercel
+
+
+There are probably more, but these are the ones I admit publicly.
+
 <br/>
-## GitHub Stats
- 
+<br/>
+
+## GitHub Statistics
+
+Apparently numbers make developers look more legitimate.
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=doohed&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=doohed&theme=tokyonight" height="170"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=doohed&layout=compact&theme=tokyonight" height="170"/>
 </p>
+
 <br/>
-## Activity
- 
+<br/>
+
+## Activity Graph
+
+Proof that I occasionally leave my editor open long enough to commit something.
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=doohed&theme=tokyo-night)
- 
+
 <br/>
-## Get in touch
- 
-Always open to interesting projects, collaborations, or just talking about web development.
- 
-<p>
-  <a href="https://bojorquez.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:martin@bojorquez.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-Thanks for stopping by — feel free to look around.
+<br/>
+
+## Contact
+
+Portfolio
+https://bojorquez.dev
+
+<a href="mailto:martin@bojorquez.dev">email</a>
+
+If something is broken, it was probably intentional.
+If it works perfectly, that was definitely intentional.
