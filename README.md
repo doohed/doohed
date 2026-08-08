@@ -1,11 +1,6 @@
 ## Welcome to my GitHub.
 
 <br/>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=doohed&theme=tokyonight&hide_border=true&border_radius=8&card_width=420&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
 <br/>
 
 I'm a developer who enjoys building fast, modern web applications and occasionally breaking things in the process. I work professionally on full-stack web development, and I'm always picking up something new. <br/>
@@ -28,7 +23,8 @@ I also run Linux full-time and I'm currently studying it more seriously, with th
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- - -
+
+<br/>
 
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -36,7 +32,7 @@ I also run Linux full-time and I'm currently studying it more seriously, with th
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-- - -
+
 
 <br/>
 <br/>
