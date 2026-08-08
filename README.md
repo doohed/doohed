@@ -1,9 +1,7 @@
 Welcome to my GitHub.
 
 <br/>
-<br/>
 
-## About Me
 
 I'm a developer who enjoys building fast, modern web applications and occasionally breaking things in the process.
 Currently I have professional experience with full-stack web development but I'm always trying to learn new things.
@@ -11,25 +9,6 @@ Currently I have professional experience with full-stack web development but I'm
 * Full-stack developer
 * Professional bug creator and bug fixer
 * Linux user
-
-<br/>
-<br/>
-
-## Tech I Use
-
-**Frontend**
-React
-Next.js
-TypeScript
-TailwindCSS
-
-**Tools**
-Node.js
-Git
-Vercel
-
-
-There are probably more, but these are the ones I admit publicly.
 
 <br/>
 <br/>
