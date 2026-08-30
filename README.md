@@ -3,8 +3,8 @@
 <br/>
 <br/>
 
-I'm a developer who enjoys building fast, modern web applications and occasionally breaking things in the process. I work professionally on full-stack web development, and I'm always picking up something new. <br/>
-I also run Linux full-time and I'm currently studying it more seriously, with the goal of contributing to a distro.
+I'm a developer who likes building software, learning new things and keep with the technology of taday's world.
+Also a linux enthusiast, rocking Debian for my personal rig rn.
 
 <br/>
 <br/>
