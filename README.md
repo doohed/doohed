@@ -4,6 +4,7 @@
 <br/>
 
 I'm a developer who likes building software, learning new things and keep with the technology of taday's world.
+<br/>
 Also a linux enthusiast, rocking Debian for my personal rig rn.
 
 <br/>
