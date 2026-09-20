@@ -1,5 +1,5 @@
 Just another dev enthusiast, aka dohed.
-
+<img width="411" height="409" alt="image" src="https://github.com/user-attachments/assets/0eeebcd6-573b-48ce-94d8-4cee68aedb72" />
 I miss the time we coded wihtout AI, is a nice tool but I can't help miss those days
 <br/>
 <p align="center">
