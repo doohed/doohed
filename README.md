@@ -30,7 +30,4 @@ Just another dev enthusiast, aka dohed.
 
 ## Contact
 
-Portfolio
-https://bojorquez.dev
-
-<a href="mailto:martin@bojorquez.dev">email</a>
+<a href="mailto:contact@xn--j9jlb2d.xyz">email</a>
